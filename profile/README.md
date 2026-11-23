@@ -41,5 +41,5 @@ The repositories are private to club members. If you coach or volunteer with us 
 
 <div align="center">
 <br>
-<sub>Built on <a href="https://github.com/touchlineHQ/clubsPlatform">touchlineHQ/clubsPlatform</a> · React · TypeScript · Cloudflare</sub>
+<sub>React · TypeScript · Cloudflare</sub>
 </div>
